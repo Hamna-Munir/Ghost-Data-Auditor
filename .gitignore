@@ -1,0 +1,9 @@
+﻿dataset/
+data/
+.venv/
+venv/
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+.env
+inspect_output.txt
